@@ -6,8 +6,11 @@ body {
   color: #111827;
 }
 
+
+
+
 .hero {
-  background: url('background.png') center/cover no-repeat;
+  background: url('/img/background.png') center/cover no-repeat;
   height: 90vh;
   display: flex;
   flex-direction: column;
